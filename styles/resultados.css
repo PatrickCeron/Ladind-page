@@ -1,0 +1,32 @@
+.resultados {
+    padding: 0 80px 96px 80px;
+}
+.topicos {
+    display: flex;
+    gap: 32px;
+}
+
+.card {
+    width: 280px;
+    height: 192px;
+}
+
+.numeros {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--cor-vermelho);
+    margin-bottom: 0.5em;
+}
+
+.topico {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-titulos);
+    margin-bottom: 0.5em;
+}
+
+.texto__topico {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cor-fonte-cinza);
+}

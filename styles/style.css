@@ -1,0 +1,21 @@
+@import url(header.css);
+@import url(apresentacao.css);
+@import url(resultados.css);
+@import url(vagas.css);
+@import url(opnioes.css);
+@import url(contato.css);
+
+:root {
+    --cor-vermelho: #8E2424;
+    --cor-fundo-header: #FFFFFF;
+    --cor-fonte-cinza: #667085;
+    --cor-fonte-cinza-escuro: #3A404E;
+    --cor-titulos: #101828;
+    --cor-fundo-contato: #F9FAFB;
+    --cor-fonte-rodape: #98A2B3;
+    --fonte-primaria: "Inter";
+}
+
+body {
+    font-family: var(--fonte-primaria);
+}

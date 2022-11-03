@@ -1,0 +1,41 @@
+.contato {
+    background-color: var(--cor-fundo-contato);
+    padding: 6em 0 5em 0;
+    text-align: center;
+}
+
+.titulo__contato {
+    font-weight: 600;
+    font-size: 36px;
+    margin-bottom: 0.6em;
+}
+
+.texto__contato {
+    color: var(--cor-fonte-cinza);
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 1.5em;
+}
+
+.entrada__email {
+    background: #FFFFFF;
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    padding: 1em 15em 1em 0.5em;
+}
+
+.botao__cadastrar {
+    padding: 1em 1.5em;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--cor-vermelho);
+    color: var(--cor-fundo-header);
+    margin-left: 0.6em;
+}
+
+.copyright {
+    color: var(--cor-fonte-rodape);
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 2em;
+}

@@ -1,0 +1,23 @@
+.apresentacao {
+    text-align: center;
+    margin: 4em;
+}
+
+.descricao__section {
+    color: var(--cor-vermelho);
+    font-weight: 600;
+}
+
+.titulo__descricao {
+    font-size: 48px;
+    font-weight: 600;
+    color: #101828;
+    margin: 1em 1em;
+}
+
+.texto__apresentacao {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cor-fonte-cinza);
+    margin-bottom: 96px;
+}
